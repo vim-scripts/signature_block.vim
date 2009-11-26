@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2872
+
+signature_block.vim is a simple plugin for adding and manipulating signature blocks in e-mails.
+
+It provides handy functions that can be called from maps or autocommands.
+
+There are other scripts offering similar functionality, see vimscript #45 or vimscript #10 or vimscript #509 but signature_block.vim is easier to understand and it can be easily extended.
